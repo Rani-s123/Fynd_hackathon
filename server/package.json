@@ -1,0 +1,22 @@
+{
+  "name": "defect-detector-server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Backend API for Defect Pattern Detector & Auto-Escalator (Fynd Hiring Hackathon 2026)",
+  "scripts": {
+    "dev": "node --watch src/index.js",
+    "start": "node src/index.js",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "supertest": "^7.0.0",
+    "vitest": "^2.1.1"
+  }
+}
