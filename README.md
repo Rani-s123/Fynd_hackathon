@@ -32,8 +32,6 @@ The frontend can run two ways:
 
 [Watch the demo video](https://github.com/Rani-s123/Fynd_hackathon/blob/main/docs/demo_video.mp4)
 
-![Demo video thumbnail](file:///C:/Users/Admin/.gemini/antigravity-ide/brain/5a832a37-1382-476a-8a4f-44dc7e96b641/fynd_defect_detector_demo_video_1790335188486.webp)
-
 Both implementations share the exact same rule engine logic (see "Detection algorithm"
 below), kept in sync so the demo behaves identically either way.
 
